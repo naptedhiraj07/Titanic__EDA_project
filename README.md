@@ -1,13 +1,5 @@
 # Titanic__EDA_project
-Titanic Dataset - Exploratory Data Analysis
-
-## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset.
-
-
-DATASET DOWNLOAD LINK
-[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
-
 
 ## Objectives
 - Data Cleaning
@@ -17,7 +9,7 @@ DATASET DOWNLOAD LINK
 - Pattern Recognition
 
 ## Tools Used
-- Python
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -30,5 +22,3 @@ DATASET DOWNLOAD LINK
 - Fare and passenger class affected survival.
 - Age distribution shows majority between 20-40.
 
-## Author
-Your [DHIRAJ GOPAL NAPTE]
